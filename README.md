@@ -15,4 +15,9 @@ Q2. (To Explore Unsupervised Machine Learning) From the given ‘Iris’ dataset
 
 Q3. (To Explore Decision Tree Algorithm ) For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly. Dataset : https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view?usp=sharing
 
+# Tasks 4 - Exploratory Data Analysis - Retail
+
+Q4. (Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore) 
+Dataset: https://bit.ly/3i4rbWl
+
 Linkedin: https://www.linkedin.com/in/kavan-prajapati-24m99
