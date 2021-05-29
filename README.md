@@ -20,12 +20,12 @@ Q4. (Perform ‘Exploratory Data Analysis’) on dataset SampleSuperstore)
 Dataset: https://bit.ly/3i4rbWl
 
 ### Tasks 5 - Exploratory Data Analysis - Sports
-Q5. (Perform ‘Exploratory Data Analysis’ on dataset Indian Premier League) 
+Q5. (Perform ‘Exploratory Data Analysis’) on dataset Indian Premier League) 
 Dataset: https://bit.ly/3vzZfRZ
 
 ### Tasks 6 - Prediction using Decision Tree Algorithm
 
-Q6. (To Explore Decision Tree Algorithm ) For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly. 
+Q6. (To Explore Decision Tree Algorithm) For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly. 
 Dataset : https://bit.ly/3p1j8ig
 
-Linkedin: https://www.linkedin.com/in/kavan-prajapati-24m99
+####Linkedin: https://www.linkedin.com/in/kavan-prajapati-24m99
